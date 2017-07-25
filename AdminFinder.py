@@ -86,14 +86,6 @@ h()
 def uso():
     print "\n Sintaxis : ",sys.argv[0]," <host> \n"
  
-def greets():
-    print """
-    
-    \t\tGr33tz to: 
-    
-    \nxt3mp, arcangel_nigth, ANTRAX, 11Sep, Kr34t0r, GAMARRA, SkippyCreammy,
-    \nv1c0_h4ck, w4rning, etc, etc .
-    \n\t\t\t Underc0de.Org"""
      
 def res(url,path):
     con = httplib.HTTPConnection(url)
@@ -117,5 +109,3 @@ if len(sys.argv) != 2 :
      
 else:
     buscar(sys.argv[1])
-    
-greets()
