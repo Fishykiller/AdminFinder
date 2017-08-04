@@ -1,5 +1,5 @@
 # -----------------------------#
-                        # Admin Panel Finder           #
+                        #     Admin Panel Finder       #
                         #                              #
                         #                              #  
                         #                              #
